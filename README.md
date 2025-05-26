@@ -1,6 +1,6 @@
 # [ICME2025] CE-LoRA: Consistent Person Synthesis by Exploring the Model's Spatial Consistency
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Per-400k-yellow?logo=huggingface)](https://huggingface.co/datasets/a1557811266/Per-400k)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Per400k-yellow?logo=huggingface)](https://huggingface.co/datasets/a1557811266/Per-400k)
 
 ## News
 
