@@ -132,3 +132,21 @@ This repository provides a script, **`unzip_files.py`**, which will automaticall
   and **remove the `#` at the beginning** (i.e., uncomment it).
   This will cause the script to **delete the zip archive** after successful extraction.
 
+## Citation
+
+If you find this work helpful, please cite our paper:
+
+```bibtex
+@inproceedings{celora,
+	title = "CE-LoRA: Consistent Person Synthesis by Exploring the Model\&#x2019;s Spatial Consistency",
+	booktitle = "2025 IEEE International Conference on Multimedia and Expo \(ICME\)",
+	author = "Liu, Delong and Lei, Cheng and Jiang, Shuai and Zhao, Zhicheng and Su, Fei",
+	issn = "1945-788X",
+	isbn = "979-8-3315-9495-4",
+	pages = "1-6",
+	publisher = "IEEE; ",
+	url = "https://www.tib.eu/de/suchen/id/ieee%3Ab10cac42ac2bf088f06288ca6e4a65c39350c3f1",
+	doi = "10.1109/ICME59968.2025.11209506",
+	year = "2025",
+}
+```
