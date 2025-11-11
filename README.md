@@ -138,7 +138,7 @@ If you find this work helpful, please cite our paper:
 
 ```bibtex
 @inproceedings{celora,
-	title = "CE-LoRA: Consistent Person Synthesis by Exploring the Model\&#x2019;s Spatial Consistency",
+	title = "CE-LoRA: Consistent Person Synthesis by Exploring the Model's Spatial Consistency",
 	booktitle = "2025 IEEE International Conference on Multimedia and Expo \(ICME\)",
 	author = "Liu, Delong and Lei, Cheng and Jiang, Shuai and Zhao, Zhicheng and Su, Fei",
 	issn = "1945-788X",
